@@ -20,7 +20,7 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Ready to try <span className="text-purple">Tectrix</span>?
+          Ready to try <span className="text-purple">TectrixMC</span>?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center text-xl">
           Join right now to participate in peak minecraft experience!
@@ -41,6 +41,10 @@ const Footer = () => {
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2025 The TectrixMC team. All rights reserved
+        </p>
+
+        <p className="md:text-base text-xl md:font-normal font-semibold">
+          Our IP: play.tectrix.dev
         </p>
 
         {/*<div className="flex items-center md:gap-3 gap-6">

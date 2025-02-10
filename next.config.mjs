@@ -7,8 +7,6 @@ export default (phase) => {
    */
   const nextConfig = {
     output: "export",
-    basePath: isDev ? undefined : "/TectrixMC",
-    assetPrefix: isDev ? undefined : "/TectrixMC",
     images: {
       unoptimized: true,
     },

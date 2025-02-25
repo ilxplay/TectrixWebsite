@@ -12,10 +12,11 @@ const Approach = () => {
 
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         <Card
-          title="No P2W or P2P"
+          title="No pay-to-win"
           icon={<AceternityIcon order="Principle 1" />}
-          des="Our meta is to achieve best possible Minecraft experience without any P2W or P2P functionality,
-          we believe that the best impressions come from fair and balanced gameplay"
+          des="Our meta is to achieve best possible Minecraft experience without any P2W functionality,
+          we believe that the best impressions come from fair and balanced gameplay."
+          
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
